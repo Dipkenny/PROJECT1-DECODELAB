@@ -13,3 +13,4 @@ Here are what I did:
   
 * <img width="953" height="384" alt="project1" src="https://github.com/user-attachments/assets/95909c44-2863-4f8c-9414-6034b87b8dbd" />
 
+* [Project 1.xlsx](https://github.com/user-attachments/files/34153811/Project.1.xlsx)
