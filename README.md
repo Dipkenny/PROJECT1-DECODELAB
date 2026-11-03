@@ -1,4 +1,4 @@
-# PROJECT1-DECODELAB
+# PROJECT1-TOKOSI-KEHINDE-AMINAT
 # Preparing a Retail Dataset for Analysis.
 
 Here are what I did:
