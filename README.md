@@ -1,4 +1,4 @@
-# PROJECT1-TOKOSI-KEHINDE-AMINAT
+# FIRST TASK AT DECODELABS INTERNSHIP
 # Preparing a Retail Dataset for Analysis.
 
 Here are what I did:
